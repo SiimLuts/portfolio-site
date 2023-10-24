@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Karl-Robert Ruul.", "Freelancer.", "Copywritter."],
+      strings: ["Karl-Robert Ruul.", "a Freelancer.", "a Copywritter."],
       typeSpeed: 100,
       loop: true,
     });
@@ -155,3 +155,4 @@ $(window).load(function(){
   });
 
 })
+
