@@ -260,7 +260,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
 }
 
 .header-content p {
@@ -269,7 +269,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: black;
   font-weight: 500;
 }
 
@@ -279,7 +279,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
+  color: black;
   font-size: 15px;
 }
 
@@ -311,12 +311,15 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
+  color: black;
 }
 
 #about .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
+  color: black;
+
 }
 
 /*-----------------------------------------------------------------------------------*/
