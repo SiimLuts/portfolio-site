@@ -43,8 +43,9 @@
     float: right;
     padding-top: 15px;
     display: block;
+    color: black;
   }
-  /* About */
+  /* About 
   .head-info .header-content .cmaster h1 {
     font-size: 32px;
   }
@@ -62,6 +63,7 @@
     max-width: 100%;
     margin-bottom: 0;
   }
+  */
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
@@ -114,8 +116,9 @@
     float: right;
     padding-top: 15px;
     display: block;
+    color: black;
   }
-  /* About */
+  /* About 
   .head-info .header-content h1 {
     font-size: 32px;
   }
@@ -133,6 +136,7 @@
     max-width: 100%;
     margin-bottom: 0;
   }
+  */
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
@@ -185,8 +189,9 @@
     float: right;
     padding-top: 15px;
     display: block;
+    color: black;
   }
-  /* About */
+  /* About 
   .head-info .header-content h1 {
     font-size: 32px;
   }
@@ -204,6 +209,7 @@
     max-width: 100%;
     margin-bottom: 0;
   }
+  */
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
@@ -226,6 +232,17 @@
     display: inline-block;
   }
 }
+/*
+.header-content h1 {
+  color: white;
+}
+.header-content p {
+  color: white;
+}
+.header-content .list-social li i {
+  color: white;
+}
+*/
 
 /** Width between 480px to 0
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -256,8 +273,9 @@
     float: right;
     padding-top: 15px;
     display: block;
+    color: black;
   }
-  /* About */
+  /* About 
   .head-info .header-content h1 {
     font-size: 32px;
   }
@@ -275,6 +293,7 @@
     max-width: 100%;
     margin-bottom: 0;
   }
+  */
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
@@ -326,8 +345,9 @@
     float: right;
     padding-top: 15px;
     display: block;
+    color: black;
   }
-  /* About */
+  /* About 
   .head-info .header-content h1 {
     font-size: 32px;
   }
@@ -345,6 +365,7 @@
     max-width: 100%;
     margin-bottom: 0;
   }
+  */
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
