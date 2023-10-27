@@ -1,14 +1,3 @@
-
-/*
-  Theme Name: Folio
-  Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-  Author: BootstrapMade.com
-  Author URL: https://bootstrapmade.com
-*/
-
-/*  General Styling
-/*-----------------------------------------------------------------------------------*/
-
 body {
   background: #ffffff;
   color: #898989;
@@ -61,7 +50,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #ffe7c6;
+  color: #ffd98d;
   text-decoration: underline;
 }
 
@@ -96,7 +85,7 @@ p {
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #c5aa6a;
   color: #fff;
 }
 
@@ -165,7 +154,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #c5aa6a;
 }
 
 .mb-30 {
@@ -178,7 +167,7 @@ p {
 
 nav {
   position: fixed;
-  background: #b8a07e;
+  background: #c5aa6a;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -295,7 +284,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #c5aa6a;
   max-width: 100%;
 }
 
@@ -330,7 +319,7 @@ nav ul li a {
 
 #what-i-do .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #c5aa6a;
   max-width: 100%;
 }
 
@@ -394,7 +383,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #c5aa6a;
   line-height: 44px;
 }
 
@@ -421,7 +410,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #c5aa6a;
 }
 
 .owl-nav {
@@ -467,7 +456,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #ffd98d;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -491,74 +480,8 @@ nav ul li a {
   max-width: 100%;
 }
 
-/*-----------------------------------------------------------------------------------*/
-/*  Journal
-/*-----------------------------------------------------------------------------------*/
 
-#journal,  #journal-blog {
-  height: auto;
-  width: 100%;
-  background: #ffffff;
-  padding-bottom: 60px;
-  position: relative;
-}
-
-#journal-blog {
-  background: #fff;
-  padding-bottom: 30px;
-}
-
-#journal .journal-block {
-  display: inline-block;
-  height: auto;
-  width: 100%;
-}
-
-#journal .journal-block .journal-info {
-  position: relative;
-}
-
-.journal-block .journal-info img {
-  max-width: 100%;
-}
-
-.journal-block .journal-info .journal-txt {
-  padding: 25px 0px;
-  position: relative;
-}
-
-.journal-block .journal-info .journal-txt h4 a {
-  display: block;
-  font-size: 19px;
-  line-height: 24px;
-  margin: 0 0 13px 0;
-  font-weight: 500;
-  color: #292929;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
-  transition: all 0.5s ease-in-out 0s;
-}
-
-.journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
-  transition: all 0.5s ease-in-out 0s;
-}
-
-.journal-block .journal-info .journal-txt p {
-  margin: 0;
-  font-size: 14px;
-  line-height: 24px;
-}
-
-/*-----------------------------------------------------------------------------------*/
-/*  Contact
-/*-----------------------------------------------------------------------------------*/
+/*  Contact */
 
 #contact {
   height: auto;
@@ -618,7 +541,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #b8a07e;
+  background: #c5aa6a;
   padding-top: 50px;
   padding-bottom: 50px;
   height: 150px;
